@@ -1,4 +1,4 @@
-#Text to Speech (FREE) - How to Generate Your Own Voice using Python 
+#Text to Speech  to Generate Your Own Voice using Python 
 
 import gtts
 import playsound
